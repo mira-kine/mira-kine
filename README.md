@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋  Welcome to my GitHub! 
+
+### My name is Mira and I'm a full-stack software developer pursuing inclusion, accessibility, equity and soulfulness in the digital world.
+
+### My tech stack focuses on React, Vanilla JS, HTML, CSS, and Express PostgreSQL.
+#### I love creating and learning new things - my personal projects employ a calm, user-friendly interface, and my aesthetics are influenced by my Japanese-Korean roots.
 
 <!--
 **mira-kine/mira-kine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
