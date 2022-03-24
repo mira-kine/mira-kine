@@ -1,4 +1,4 @@
-![Mira-Kine-Banner](./github.jpg)
+![Mira-Kine-Banner](./github.JPG)
 
 My name is Mira and I'm a full-stack software developer pursuing inclusion, accessibility, equity and soulfulness in the digital world.
 
