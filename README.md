@@ -2,7 +2,7 @@
 
 ## Hi,
 
-Hi, I'm glad you're here. I'm a full-stack software developer pursuing inclusion, accessibility, equity and soulfulness in the digital world.
+Hi, I'm glad you're here.
 
 ## About Me:
 
