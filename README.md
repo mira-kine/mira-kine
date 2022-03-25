@@ -18,8 +18,13 @@ Hi, I'm glad you're here.
   - Tools: GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper
   - In Progress: Typescript, Storybook
 
- 🌸  I love creating and learning new things - my personal projects employ a calm, user-friendly interface, and my aesthetics are influenced by my Japanese-Korean roots. 
+ 🌸  I love creating and learning new things - my personal projects employ a calm, user-friendly interface, and my aesthetics are influenced by my Japanese-Korean roots.
+ 
  🌸  I am especially passionate about the intersectionality of tech and mental health to continue globalizing and equalizing access to mental health care  🌱
+ 
  🌸  I express myself through poetry and illustrations and I'm always on the look out for random deep sea facts 🌊 
+ ![giphy](https://user-images.githubusercontent.com/90009901/160054985-8c97325a-6133-4e6d-9e4d-87741ef43ee5.gif)
+
+ 
 Hope you enjoy!
 
