@@ -2,10 +2,11 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/90009901/160056144-141fab88-0b55-44c5-8213-85f4a852761d.gif)
 
 
+# Hi,
 
-## Hi,
+## Hi, I'm glad you're here.
 
-Hi, I'm glad you're here.
+
 
 ## My name is Mira -- 
 
@@ -26,12 +27,16 @@ Hi, I'm glad you're here.
  
  👀 Peep some of my other projects ... [GoodJob.dev](https://www.goodjob.dev/), [Unspoken](https://unspokenstories.netlify.app/)
 
- [![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/mira-kine/github-readme-stats&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mira-kine)](https://github.com/mira-kine/github-readme-stats)
+<p align="center">
+ <img style="display: block; margin: auto" src="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight" alt="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)">
+</p>
 
-![giphy](https://user-images.githubusercontent.com/90009901/160058297-c9862dfd-d7b4-4bee-9ee5-5a0e422ec4bb.gif)
-         
+<p align="center">
+ <img width="200" src="https://user-images.githubusercontent.com/90009901/160058297-c9862dfd-d7b4-4bee-9ee5-5a0e422ec4bb.gif" alt="gif of bear waving">
+</p>
 
+<p align="center">
 Hope you enjoy!
-
+</p>
 
 
