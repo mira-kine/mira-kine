@@ -1,4 +1,6 @@
-![Mira-Kine-Banner](./github.JPG)
+<!-- ![Mira-Kine-Banner](./github.JPG) -->
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90009901/160054673-82894ec5-3874-4a66-9850-222e1a96b875.gif)
+
 
 ## Hi,
 
