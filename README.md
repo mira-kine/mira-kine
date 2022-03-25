@@ -13,7 +13,6 @@ Hi, I'm glad you're here.
 
  🌸 I also love creating and learning new things - my personal projects employ a calm, user-friendly interface, and my aesthetics are influenced by my Japanese-Korean roots. 
 
- ✨ I focus on React, Vanilla JS, HTML, CSS, and Express PostgreSQL.
 
  ### 📝 My tech stack also includes:
   - **Languages:** JavaScript, HTML, CSS
