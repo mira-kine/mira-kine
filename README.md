@@ -24,6 +24,7 @@ Hi, I'm glad you're here.
   - In Progress: Typescript, Storybook
  
  💪 I'm currently working on ...
+ 
  👀 Peep some of my other projects ... [GoodJob.dev](https://www.goodjob.dev/), [Unspoken](https://unspokenstories.netlify.app/)
 
  
