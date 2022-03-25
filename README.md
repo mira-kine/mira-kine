@@ -26,8 +26,7 @@ Hi, I'm glad you're here.
  
  👀 Peep some of my other projects ... [GoodJob.dev](https://www.goodjob.dev/), [Unspoken](https://unspokenstories.netlify.app/)
 
- [![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/mira-kine/github-readme-stats)
-
+ [![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/mira-kine/github-readme-stats&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mira-kine)](https://github.com/mira-kine/github-readme-stats)
 
 ![giphy](https://user-images.githubusercontent.com/90009901/160058297-c9862dfd-d7b4-4bee-9ee5-5a0e422ec4bb.gif)
          
