@@ -16,17 +16,18 @@ Hi, I'm glad you're here.
  ✨ I focus on React, Vanilla JS, HTML, CSS, and Express PostgreSQL.
 
  ### 📝 My tech stack also includes:
-  - *Languages:* JavaScript, HTML, CSS
-  - *Libraries & Frameworks:* React, Redux, Node.js, Tailwind CSS, jQuery, Express
-  - Testing: TDD, Jest, QUnit, Snapshot, Supertest
-  - Databases: PostgreSQL
-  - Tools: GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper
-  - In Progress: Typescript, Storybook
+  - **Languages:** JavaScript, HTML, CSS
+  - **Libraries & Frameworks:** React, Redux, Node.js, Tailwind CSS, jQuery, Express
+  - **Testing:** TDD, Jest, QUnit, Snapshot, Supertest
+  - **Databases:** PostgreSQL
+  - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper
+  - **In Progress:** Typescript, Storybook
  
  💪 I'm currently working on ...
  
  👀 Peep some of my other projects ... [GoodJob.dev](https://www.goodjob.dev/), [Unspoken](https://unspokenstories.netlify.app/)
 
+![giphy](https://user-images.githubusercontent.com/90009901/160058297-c9862dfd-d7b4-4bee-9ee5-5a0e422ec4bb.gif)
  
 
 Hope you enjoy!
