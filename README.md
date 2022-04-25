@@ -10,7 +10,7 @@
 
 ## My name is Mira -- 
 
- 🌱  I am a full stack software developer who cares about people and their stories. I am working to curate an accessible, equitable, inclusive and soulful digital world.
+ 🌱  I am a full stack software developer who cares about people and their stories. I am working to curate an accessible, equitable and soulful digital world.
 
  🌸 I also love creating and learning new things - my personal projects employ a calm, user-friendly interface, and my aesthetics are influenced by my Japanese-Korean roots. 
 
