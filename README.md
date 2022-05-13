@@ -2,9 +2,7 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/90009901/160056144-141fab88-0b55-44c5-8213-85f4a852761d.gif)
 
 
-# Hi,
-
-## Hi, I'm glad you're here.
+# Hi, I'm glad you're here.
 
 
 
