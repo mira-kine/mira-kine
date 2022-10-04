@@ -14,11 +14,11 @@
 
 
  ### 📝 My tech stack also includes:
-  - **Languages:** JavaScript, HTML, CSS
+  - **Languages:** JavaScript, HTML, CSS, Python
   - **Libraries & Frameworks:** React, Redux, Node.js, Tailwind CSS, jQuery, Express
   - **Testing:** TDD, Jest, QUnit, Snapshot, Supertest
-  - **Databases:** PostgreSQL
-  - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper
+  - **Databases:** PostgreSQL, NoSQL
+  - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper, Firebase
   - **In Progress:** Typescript, Storybook
  
  ### 👀 Peep some of my other projects ... [GoodJob.dev](https://www.goodjob.dev/), [Unspoken](https://unspokenstories.netlify.app/), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/)
