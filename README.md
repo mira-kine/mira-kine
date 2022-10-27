@@ -21,7 +21,7 @@
   - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper, Firebase
   - **In Progress:** Typescript, Storybook
  
- ### 👀 Peep some of my other projects ... [GoodJob.dev](https://www.goodjob.dev/), [Unspoken](https://unspokenstories.netlify.app/), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/)
+ ### 👀 Peep some of my other projects ... [Portfolio](mira-kine-portfolio.netlify.app/), [GoodJob.dev](https://www.goodjob.dev/), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/)
 
 <p align="center">
  <img style="display: block; margin: auto" src="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight" alt="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)">
