@@ -14,10 +14,10 @@
 
 
  ### 📝 My tech stack also includes:
-  - **Languages:** JavaScript, HTML, CSS, Python
-  - **Libraries & Frameworks:** React, Redux, Node.js, Tailwind CSS, jQuery, Express
+  - **Languages:** JavaScript, HTML, CSS, Python, Dart
+  - **Libraries & Frameworks:** React, Redux, Node.js, Tailwind CSS, jQuery, Express, Flutter
   - **Testing:** TDD, Jest, QUnit, Snapshot, Supertest
-  - **Databases:** PostgreSQL, NoSQL
+  - **Databases:** PostgreSQL, NoSQL, Firebase
   - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper, Firebase
   - **In Progress:** Typescript, Storybook
  
