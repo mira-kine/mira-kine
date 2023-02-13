@@ -18,10 +18,10 @@
   - **Libraries & Frameworks:** React, Redux, Node.js, Tailwind CSS, jQuery, Express, Flutter
   - **Testing:** TDD, Jest, QUnit, Snapshot, Supertest
   - **Databases:** PostgreSQL, NoSQL, Firebase
-  - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper, Firebase
+  - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Photoshop, Procreate, Canva, Beekeeper, Pipedream
   - **In Progress:** Typescript, Storybook
  
- ### 👀 Peep some of my other projects ... [Portfolio](https://mira-kine-portfolio.netlify.app/), [GoodJob.dev](https://www.goodjob.dev/), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/)
+ ### 👀 Peep some of my other projects ... [Portfolio](https://mkine-portfolio.netlify.app/), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/), [Tomoiru-Web](https://tomoiru-web.netlify.app/), [GoodJob.dev](https://www.goodjob.dev/),
 
 <p align="center">
  <img style="display: block; margin: auto" src="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight" alt="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)">
