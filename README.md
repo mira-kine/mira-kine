@@ -20,7 +20,7 @@
   - **Databases:** PostgreSQL, NoSQL, Firebase, AWS
   - **Tools:** GitHub, VSCode, Heroku, Netlify, Postman, Miro, Procreate, Figma, Docker
  
- ### 👀 Peep some of my other projects ... [Portfolio](https://mkine-portfolio.netlify.app/), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/), [Tomoiru-Web](https://tomoiru-web.netlify.app/)
+ ### 👀 Peep some of my other projects ... [My Website](https://mira-kine.dev), [Shop-Ade](https://tcl-45-smart-shopping-list.firebaseapp.com/), [Tomoiru-Web](https://tomoiru-web.netlify.app/)
 
 <p align="center">
  <img style="display: block; margin: auto" src="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight" alt="https://github-readme-stats.vercel.app/api?username=mira-kine&hide=stars,issues&show_icons=true&theme=tokyonight)">
