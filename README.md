@@ -14,7 +14,7 @@
 
 
  ### 📝 My tech stack also includes:
-  - **Languages:** JavaScript, Typescript, HTML, CSS, Python
+  - **Languages:** C#, C++, Swift, Python, JavaScript, Typescript, HTML, CSS
   - **Libraries & Frameworks:** React.js, Next.js, Redux, Node.js, Tailwind CSS, jQuery, Express.js
   - **Testing:** TDD, Jest, QUnit, Snapshot, Supertest, Cypress, Vitest, MSW
   - **Databases:** PostgreSQL, NoSQL, Firebase, AWS
